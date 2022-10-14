@@ -1,6 +1,7 @@
 public class{
 public static void main(String args[]){
       System.out.println(" 1st program");
+       System.out.println(" now it's enough");
 }
 
    }
